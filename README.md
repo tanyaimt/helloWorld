@@ -1,4 +1,5 @@
 # helloWorld
 First introduction repository
-\nMySQL
-\nPHP
+
+MySQL
+PHP
